@@ -14,8 +14,8 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* Инструкция по установке OpenJDK11
-* Руководство использования KeyValidator
+* [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+* [Руководство использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 В качестве тестовых данных использовались данные источника: Руководство использования KeyValidator
 
@@ -37,5 +37,4 @@
 Тестирование производилось в следующем окружении:
 * Windows7_64 Prof
 * OpenJDK11
-* Windows7_64 Prof
-* в процессе тестирования была установлена OpenJDK11
+
