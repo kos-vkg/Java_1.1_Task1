@@ -10,6 +10,7 @@
 * [В инструкции по установке OpenJDK 11 на шагах 4 и 5 отсутствует указание нажать кн. NEXT](https://github.com/kos-vkg/Java_1.1_Task1/issues/1#issue-744810018)
 * [Неверная обработка валидных ключей](https://github.com/kos-vkg/Java_1.1_Task1/issues/2#issue-744863846)
 * [Неверная обработка невалидных ключей](https://github.com/kos-vkg/Java_1.1_Task1/issues/3#issue-744865190)
+* [Домашнее задание к занятию «1.1. Введение в Java: JDK, JRE, JVM, IntelliJ IDEA»](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 
 ## Описание процесса тестирования
 
